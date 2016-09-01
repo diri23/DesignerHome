@@ -1,0 +1,85 @@
+body{
+    padding-top: 50px;
+    font-size: 14px;
+}
+.navbar{
+    margin-bottom: 0;
+}
+.navbar-search{
+    margin-top: 11px; 
+}
+.navbar-search input{
+    border: 0;
+    outline: none;
+    height: 30px;
+    border-radius: 5px;
+}
+.container .row{
+    margin-top: 50px;
+}
+.col-sm-12{
+/*    background-color: #ccc;*/
+    margin-top: 10px;
+}
+.col-sm-2 a:hover{
+    color: #f00;
+    text-decoration: none;  
+}
+.box{
+    margin-bottom: 20px;
+    height: 170px;
+}
+.box:hover{
+    border: 1px solid #F6F3EE;
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+.box-head{
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.box-head a{
+    color: #333;
+    text-decoration: none;
+    border: 0;
+    
+}
+.box .col-sm-2{
+    padding: 10px 0;
+}
+.box img{
+    width: 18px;
+    height: 18px;
+    margin: 0 5px;
+}
+.list-group:hover{
+    box-shadow: 0 2px 2px rgba(0,0,0,.2);
+}
+/*
+.list-group-item{
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+*/
+.list-group-item:hover{
+/*    border-bottom: 1px solid #ddd;*/
+    background-color: #f5f5f5;
+}
+.list-group-item a:hover{
+    text-decoration: none;
+}
+.badge-red{
+    background-color:#dd514c;
+}
+.badge-green{
+    background-color: #5eb95e;
+}
+.badge-blue{
+    background-color: #0e90d2;
+}
+.list-group-item-heading{
+    font-size: 15px;
+    font-weight: 700;
+}
+
